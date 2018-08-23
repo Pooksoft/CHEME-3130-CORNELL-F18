@@ -17,9 +17,7 @@ To install [IJulia](https://github.com/JuliaLang/IJulia.jl), first [start Julia]
 and then issue the command at the REPL prompt:
 
 ```
-  julia> using Pkg
-  julia> Pkg.add("IJulia")
-
+  julia> using Pkg; Pkg.add("IJulia")
 ```
 
 
