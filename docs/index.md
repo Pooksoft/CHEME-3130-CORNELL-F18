@@ -1,13 +1,14 @@
 
 ### How do I run the examples?
 The examples presented in the CHEME 3130 lectures are available as [Jupyter notebooks](http://jupyter.org)
-encoded in the [Julia](https://julialang.org) programming language. [Jupyter notebooks](http://jupyter.org) require [Python](https://www.python.org).
-All of these technologies are platform independent and open source.
+encoded in the [Julia](https://julialang.org) programming language. [Jupyter notebooks](http://jupyter.org)
+require [Python](https://www.python.org). All of these technologies are platform independent and open source,
+and can be easily installed on your local machine.
 
 * See [here](http://jupyter.org/install.html) to install [Jupyter notebooks](http://jupyter.org) on your local machine.
 [Jupyter notebooks](http://jupyter.org) require a working [Python](https://www.python.org) installation.
 We __highly__ recommend the [Anaconda distribution](https://www.anaconda.com/download/#macos) implementation.
-Once you have Jupyter notebooks](http://jupyter.org) installed, see [here](Jupyter notebooks](http://jupyter.org) for help running
+Once you have [Jupyter notebooks](http://jupyter.org) installed, see [here](Jupyter notebooks](http://jupyter.org) for help running
 the notebooks.
 
 * See [here](https://julialang.org/downloads/) to install [Julia](https://julialang.org) locally.
