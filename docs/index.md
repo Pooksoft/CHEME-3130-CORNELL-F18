@@ -6,5 +6,5 @@ independent.
 
 ### First law examples (Jupyter notebooks)
 
-* Open first law example. [NBViewer](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_open/FlowCalorimeter.ipynb)
-* Closed first law example. [NBViewer](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_closed/EvacuatedVessel.ipynb)
+* [Open first law example.](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/tree/master/examples/first_law_open)[View this example on NBViewer](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_open/FlowCalorimeter.ipynb)
+* [Closed first law example.](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/tree/master/examples/first_law_closed)[View this example on NBViewer](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_closed/EvacuatedVessel.ipynb)
