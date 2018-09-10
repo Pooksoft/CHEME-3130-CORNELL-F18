@@ -20,6 +20,11 @@ and then issue the command at the REPL prompt:
   julia> using Pkg; Pkg.add("IJulia")
 ```
 
+* (Download the example codes from the CHEME 3130 GitHub site and away you go!)[https://github.com/varnerlab/CHEME-3130-CORNELL-F18/tree/master/examples]
+
+## I don't want to do all that. Can I just look at the examples?
+Sure! We have linked the GitHub code to [NBViewer](https://nbviewer.jupyter.org) which allows you to see the examples (but you can't change anything).
+
 ### First law examples
 
 * [Open first law example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_open/FlowCalorimeter.ipynb)
