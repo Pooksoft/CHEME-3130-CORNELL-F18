@@ -26,9 +26,9 @@ and then issue the command at the REPL prompt:
 * [Closed first law example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_closed/EvacuatedVessel.ipynb)
 
 ### Equations of State (EOS)
-* [Estimate $v$ for n-butane using Newton's Method for vDW](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/newtons_method/Newton.ipynb)
+* [Estimate _v_ for n-butane using Newton's Method for vDW](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/newtons_method/Newton.ipynb)
 * [vdW simulation for Carbon Dioxide as a function of temperature T and pressure P](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/eos_model/CubicEOS.ipynb)
 
 ### Estimate _stuff_ from Experimental Data
 * [Estimate the second and third Virial coefficients for Cyclohexane from data](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/estimate_B_C/EstimateVCoeff.ipynb)
-* [Estimate the compressibility $Z$ for Nitrogen as a function temperature T](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/compressibilty/Compressibility.ipynb)
+* [Estimate the compressibility _Z_ for Nitrogen as a function temperature T](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/compressibilty/Compressibility.ipynb)
