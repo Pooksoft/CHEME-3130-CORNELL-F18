@@ -1,5 +1,5 @@
 
-### How do I run the examples?
+## How do I run the examples?
 The examples presented in the CHEME 3130 lectures are available as [Jupyter notebooks](http://jupyter.org)
 encoded in the [Julia](https://julialang.org) programming language. [Jupyter notebooks](http://jupyter.org)
 require [Python](https://www.python.org). All of these technologies are platform independent and open source,
