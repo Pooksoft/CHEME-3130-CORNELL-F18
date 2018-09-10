@@ -20,8 +20,6 @@ and then issue the command at the REPL prompt:
   julia> using Pkg; Pkg.add("IJulia")
 ```
 
-
-
 ### First law examples (Jupyter notebooks)
 
 * [Open first law example](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/tree/master/examples/first_law_open) -or- [NBViewer](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_open/FlowCalorimeter.ipynb)
