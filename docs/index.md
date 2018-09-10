@@ -20,7 +20,7 @@ and then issue the command at the REPL prompt:
   julia> using Pkg; Pkg.add("IJulia")
 ```
 
-### First law examples (Jupyter notebooks)
+### First law examples
 
 * [Open first law example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_open/FlowCalorimeter.ipynb)
 * [Closed first law example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/first_law_closed/EvacuatedVessel.ipynb)
