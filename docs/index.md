@@ -37,3 +37,4 @@ Sure! We have linked the GitHub code to [NBViewer](https://nbviewer.jupyter.org)
 ### Estimate _stuff_ from Experimental Data
 * [Estimate the second and third Virial coefficients for Cyclohexane from data](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/estimate_B_C/EstimateVCoeff.ipynb)
 * [Estimate the compressibility _Z_ for Nitrogen as a function temperature T](https://github.com/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/compressibilty/Compressibility.ipynb)
+* [Estimate the Latent Heat of Vaporization of R134a from data](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-CORNELL-F18/blob/master/examples/cc_eqn/CCEqn_deltaH.ipynb)
